@@ -7,7 +7,7 @@
 
 2. After Installation run :-
 	<pre>npm start</pre>
-	<pre>json-server --watch src/db.json</pre>
+	<pre>npm run jserver</pre>
 	
 
 
