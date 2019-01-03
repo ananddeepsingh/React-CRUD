@@ -7,7 +7,7 @@
 
 2. After Installation run :-
 	<pre>npm start</pre>
-	<pre>npm run jserver</pre>
+	<pre>npm run jserver</pre> (Using https://github.com/typicode/json-server)
 	
 
 
